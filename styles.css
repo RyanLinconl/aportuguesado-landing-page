@@ -235,7 +235,17 @@ body {
 }
 
 @media screen and (max-width: 450px) {
+    .container_titulo {
+        display: flex;
+        flex-direction: row-reverse;
+        margin: 2rem 2rem;
+    }
+
     .container_caixa {
         margin: auto;
+    }
+
+    .secundario_imagem {
+        margin-top: 10rem;
     }
 }
