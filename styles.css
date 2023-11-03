@@ -212,11 +212,11 @@ body {
     }
 
     .container_botao {
-        width: auto;
+        width: 50vw;
     }
 
     .secundario_botao {
-        margin-right: 10em;
+        margin-right: 10;
     }
 
     .rodape_lista {
@@ -234,3 +234,8 @@ body {
     padding: 20rem;
 }
 
+@media screen and (max-width: 450px) {
+    .container_caixa {
+        margin: auto;
+    }
+}
