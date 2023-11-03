@@ -1,7 +1,7 @@
 # aportuguesado-landing-page
  Projeto de uma Landing Page simples feita com HTML e CSS!
 
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RyanLinconl/atravessando-a-rua/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/RyanLinconl/aportuguesado-landing-page/blob/main/LICENSE) 
 
 # Sobre o projeto
 
