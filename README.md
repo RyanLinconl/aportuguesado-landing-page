@@ -5,7 +5,7 @@
 
 # Sobre o projeto
 
-https://atravessando-a-rua.vercel.app
+https://aportuguesado-landing-page.vercel.app
 
 A Landing Page do Aportuguesado é uma página simples para uma marca fictícia de cursos voltados para a lingua portuguesa e foi inspirada nos ensinamentos dos cursos oferecidos pela plataforma [Alura](https://www.alura.com.br "Site da Alura").
 
