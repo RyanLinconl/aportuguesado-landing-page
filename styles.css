@@ -182,7 +182,12 @@ body {
     }
 
     .container_titulo {
-        margin: 5rem 5rem;
+        margin: 5rem 5rem 5rem 5rem;
+        
+    }
+
+    .container_botao {
+        margin: auto;
     }
 
     .descricao_texto {
@@ -207,8 +212,7 @@ body {
     }
 
     .container_botao {
-        margin: 1em;
-        margin-left: 10em;
+        width: auto;
     }
 
     .secundario_botao {
@@ -217,6 +221,10 @@ body {
 
     .rodape_lista {
         display: block;
+    }
+
+    .rodape_texto {
+        margin: 5rem 5rem;
     }
 }
 
