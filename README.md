@@ -7,7 +7,7 @@
 
 https://aportuguesado-landing-page.vercel.app
 
-A Landing Page do Aportuguesado é uma página simples para uma marca fictícia de cursos voltados para a lingua portuguesa e foi inspirada nos ensinamentos dos cursos oferecidos pela plataforma [Alura](https://www.alura.com.br "Site da Alura").
+A Landing Page do Aportuguesado é uma página simples para uma marca fictícia de cursos voltados para a língua portuguesa e foi inspirada nos ensinamentos dos cursos oferecidos pela plataforma [Alura](https://www.alura.com.br "Site da Alura").
 
 # Tecnologias utilizadas
 ## Front end
